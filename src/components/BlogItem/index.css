@@ -1,0 +1,20 @@
+.blogs-list {
+  list-style: none;
+  font-family: 'Roboto';
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.blog-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.date {
+  color: #9aa5b1;
+}
+.description {
+  color: #9aa5b1;
+}
+.title {
+  color: #12022f;
+}
